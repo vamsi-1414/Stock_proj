@@ -1,4 +1,4 @@
-iimport random
+import random
 
 class StockPriceGenerator:
     def __init__(self, base_price=1500.0):
